@@ -17,3 +17,6 @@ While those who grew up with early microcomputers (like the ZX81 and Commodore V
 
 
 IDE used: PyCharm Community Edition for  a full installation guide you can check out : https://www.youtube.com/watch?v=rIQA293OTys
+
+
+
