@@ -1,3 +1,5 @@
+# code written by Alexandros Panagiotakopoulos
+
 from machine import Pin
 import time
 
