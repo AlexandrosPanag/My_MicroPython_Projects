@@ -47,3 +47,8 @@ Recognize Button
 ---------------
 
 A program that initializes the user button, and can check whether or not the button is pressed, if pressed the led light will blink accordingly
+
+Button Sleep
+---------------
+
+A program that makes the device sleep, each time the button is pressed, for 10 seconds
