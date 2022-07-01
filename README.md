@@ -30,3 +30,8 @@ User Input Blink
 -----------------
 
 This program shows how we can create a program that takes a forced user input and makes the Digi Xbee board blink according to user input. 
+
+Hardware Module Identification Plus Internal Temperature
+-----------------
+
+A program that shows how we can measure the internal temperature and how we can identify our module's hardware version
