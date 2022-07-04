@@ -10,6 +10,12 @@ SOURCE: https://www.linkedin.com/pulse/what-micro-python-how-different-rahil-kha
  
 Device used to compile the programs: https://www.digi.com/products/embedded-systems/digi-xbee/rf-modules/2-4-ghz-rf-modules/xbee3-zigbee-3
 
+---------------------------------
+Digi Xbee 3 ZIGBEE MESH KIT
+---------------------------------
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_MicroPython_Projects/main/Digi%20Xbee%203%20Pins.png)
+
+
 
 IDE used: PyCharm Community Edition for  a full installation guide you can check out : https://www.youtube.com/watch?v=rIQA293OTys
 
